@@ -1,5 +1,7 @@
-numpy = 2.0.2
-panda = 2.2.3
+numpy
+panda
+Keras
+Streamlit
 
 
 
